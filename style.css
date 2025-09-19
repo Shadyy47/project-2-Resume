@@ -1,0 +1,24 @@
+#forest{
+    height: 45vh;
+    width: 100%;
+}
+.profile-pic{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.gradient-background {
+  background: linear-gradient(300deg, #1f6b32, #80af82, #070707);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+  
+}
+.contactme{
+  text-align:justify;
+}
+.contact-me{
+  display: flex;
+  margin-left: 100px;
+  justify-content: start;
+  
+}
